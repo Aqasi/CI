@@ -6,6 +6,9 @@ For the bigger students and kids this framework is helpful to make more amazing 
 For more Information Visit Site
 [Career Institute's Offecial Website](https://career.edu.pk)
 
+
+[![Career_Institute](https://2.bp.blogspot.com/--C_FaJl0IBM/WN99fVcHg4I/AAAAAAAACJA/EP4PTt-KU5U5yqEDOjI-KTIsPKcmrM-TgCLcB/s1600/Careerlogo.png)](https://career.edu.pk)
+
 # How To
 To use CI.CSS in your web site, just add a link to "ci.css" from your web pages:
 
@@ -16,6 +19,3 @@ To use CI.CSS in your web site, just add a link to "ci.css" from your web pages:
 
 <link rel="stylesheet" href="css/ci.css">
 ```
-
-[![Career_Institute](https://2.bp.blogspot.com/--C_FaJl0IBM/WN99fVcHg4I/AAAAAAAACJA/EP4PTt-KU5U5yqEDOjI-KTIsPKcmrM-TgCLcB/s1600/Careerlogo.png)](https://career.edu.pk)
-
